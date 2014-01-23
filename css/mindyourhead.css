@@ -3,7 +3,14 @@ body{
 	padding-top: 50px;
 }
 
+nav{
+	padding-top: 50px;
+}
+
 section{
 	padding-top: 50px;
 }
 
+.jumbotron{
+	background-image:url(.../img/"indexcover.jpg");
+}
